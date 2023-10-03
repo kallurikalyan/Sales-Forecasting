@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": "Vinay",
+      "name": "KenchamVinay",
+      "password": "Vinay@3031",
+      "email": "ken@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "ajmer",
+      "name": "moudh ajmeer",
+      "password": "Ajmeer@123",
+      "email": "aji@gmail.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    }
+  ]
+}
